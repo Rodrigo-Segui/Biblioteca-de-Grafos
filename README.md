@@ -14,8 +14,9 @@ usuário:
 
 Observações:
 1) O programa roda a partir da leitura do arquivo "grafo.txt", onde a primeira linha é referente a quantidade de vértices e as linhas subsequentes são os nodos e suas arestas;
+	
 	Modelo de arquivo:
---------
+
 9
 1;2;10
 2;3;4
@@ -23,7 +24,7 @@ Observações:
 2;6;23
 3;1;5
 4;5;5
---------
+
 Seguindo as orientações acima este arquivo pode ser modificado.
 
 
