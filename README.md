@@ -1,6 +1,25 @@
+
+<h1 align="center">
+
+</h1>
+
 # Biblioteca de Grafos
 
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Linguagem C](https://en.wikipedia.org/wiki/C_(programming_language))
+
+## 💻 Projeto
+ 
 Implementação em C de uma Biblioteca de Grafos com as seguintes funcionalidades para o
 usuário:
 
@@ -18,10 +37,15 @@ Observações:
 
 Seguindo o padrão acima este arquivo pode ser modificado.
 
+## Começando
 
-# Execute
+ 1. Clone esse repositorio ```git clone https://github.com/Rodrigo-Segui/Biblioteca-de-Grafos.git```
+ 2. # Execute $ make.
+  
+ ## :memo: Licença
 
-$ make
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rodrigo-Segui/Biblioteca-de-Grafos/blob/master/LICENSE) para mais detalhes
+
 
 
 
